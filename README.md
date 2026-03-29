@@ -4,7 +4,7 @@
 
 Today, I woke up at 2:00p.m. I raised to my laptop and I started my daily lessons. I used an application called "CODDY"
 
-Link to CODDY :
+[Link to CODDY](www.youtube.com/@Pethub.256)
 
 This guides me throuhg the basics I should learn and these were my lessons for today;
 
@@ -29,9 +29,9 @@ A boolean has two possible values, which are;
 
 **These values only start with a capital letter and stand without quotes🤏**
 
-  Variable_true = True
+    Variable_true = True
   
-  Variable_false = False
+    Variable_false = False
 
   📛**Booleans are buildinding blocks for creating logic in a programme**
 
