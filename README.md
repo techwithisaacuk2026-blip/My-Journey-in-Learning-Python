@@ -98,7 +98,7 @@ It tells whats left over after dividing one number.➗
 
 If a number is **even** , the remainder is **zero**
 
-If a number is **odd** , ti leaves a remainder other than **zero**
+If a number is **odd** , it leaves a remainder other than **zero**
 
 ### ARITHMETIC SHORTCUTS
 
@@ -116,7 +116,21 @@ We can simplify this by writing += :
 
 The **+= adds** the value **3 to a**
 
-Need a table here""
+### OPERATORS AND THERE SHORTCUTS
+
+| Operator | Shortcut|
+
+|----------|---------|
+
+| +        | +=      |
+
+| - | -= |
+
+| * | *= |
+
+| / | /= |
+
+| % | %= |
 
 ### COMPARISON OPERATORS
 
