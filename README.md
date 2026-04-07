@@ -10,7 +10,13 @@ This guides me throuhg the basics I should learn and these were my lessons for t
 
 ### LESSON 1 - LEARNING STRINGS⛓️
 
-A letter forexample; 'A' is a single caracter. A string(str) is a combination of multiple caracters forexample; 'AAAA'. In simple terms, a String(str) is a data type that consists of multiple caracters combined together.
+A letter forexample; 
+
+'A' is a single caracter.
+
+A string(str) is a combination of multiple caracters forexample; 'AAAA'.
+
+In simple terms, a String(str) is a data type that consists of multiple caracters combined together.
 
 To initialize a string, it should either be enclosed in **single** or **double** quotations
 
