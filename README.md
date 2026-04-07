@@ -66,7 +66,12 @@ None is not the same as **0, an empty string" ", or False**. 0, is a number, "" 
 These are used to perform calculations on values.📚
 
 **BASIC OPERATORS INCLUDE;**
-"REQUIRES A TABLE HERE"
+| OPERATOR | USE            |
+|----------|----------------|
+| +        | ADDITION       |
+| -        | SUBTRACTION    |
+| *        | MULTIPLICATION |
+| /        | DIVISION       |
 
 **MODULO OPERATOR**
 
@@ -119,18 +124,12 @@ The **+= adds** the value **3 to a**
 ### OPERATORS AND THERE SHORTCUTS
 
 | Operator | Shortcut|
-
 |----------|---------|
-
 | +        | +=      |
-
-| - | -= |
-
-| * | *= |
-
-| / | /= |
-
-| % | %= |
+| -        | -=      |
+| *        | *=      |
+| /        | /=      |
+| %        | %=      |
 
 ### COMPARISON OPERATORS
 
