@@ -4,7 +4,7 @@
 
 Today, I woke up at 2:00p.m. I raised to my laptop and I started my daily lessons. I used an application called "CODDY"
 
-[Link to CODDY](https://www.youtube.com/@Pethub.256)
+[Link to CODDY](https://link.coddy.tech/bvMS/ref?af_sub2=XQg7AkHDNGew)
 
 This guides me throuhg the basics I should learn and these were my lessons for today;
 
