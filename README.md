@@ -74,7 +74,11 @@ It tells whats left over after dividing one number.➗
 
          result = dividend % divisor
 
-"requires a table here"
+### Common terms
+
+1. Dividend : The number being divided
+2. Divisor : The number that divides the dividend
+3. Result : The remainder of the division
 
          result = 10 % 3
          
@@ -90,7 +94,36 @@ It tells whats left over after dividing one number.➗
 
                            = 5
                   (this is because 8 can't in 5 even once, so 5 remains the answer)
-                  
+**NOTE**
+
+If a number is **even** , the remainder is **zero**
+
+If a number is **odd** , ti leaves a remainder other than **zero**
+
+### ARITHMETIC SHORTCUTS
+
+Python created a cool shortcut for arithmetic operations.
+
+         a = 5
+         
+         a = a + 3 # a holds 8
+
+We can simplify this by writing += :
+
+         a = 5
+
+         a += 3  # a holds 8
+
+The **+= adds** the value **3 to a**
+
+Need a table here""
+
+### COMPARISON OPERATORS
+
+These are used to compare between two operands.
+
+
+         
                 
          
 
