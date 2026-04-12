@@ -1,4 +1,4 @@
-# AM TEACHING MYSELF TO CODE WITH PYTHON AND THIS IS A FOLLOW UP OF MY JOURNEY
+# <p align="center"> AM TEACHING MYSELF TO CODE WITH PYTHON AND THIS IS A FOLLOW UP OF MY JOURNEY </p>
 
 While I teach myself to code, I use an app called **CODDY**. This gives me detailed lessons and also motivation to keep my learning journey ahead.
 
@@ -65,7 +65,7 @@ None is not the same as **0, an empty string" ", or False**. 0, is a number, "" 
 
 # DAY 2💪
 
-### LESSON 4 - OPERATORS🎲
+### LESSON 5 - OPERATORS🎲
 
 These are used to perform calculations on values.📚
 
@@ -190,7 +190,7 @@ if age >= 18 and has_id:
 
 ---
 
-## 🔹 2. Decision Making
+## 🔹 Decision Making
 
 ### 📖 Definition
 
@@ -219,7 +219,7 @@ else:
 
 ---
 
-## 🔹 3. Basic Input / Output
+## 🔹  Basic Input / Output
 
 ### 📖 Definition
 
@@ -254,7 +254,7 @@ print(age + 5)
 
 ---
 
-## 🔹 4. Loops
+## 🔹Loops
 
 ### 📖 Definition
 
@@ -299,7 +299,7 @@ while count < 5:
 
 ---
 
-## 🔹 5. Functions
+## 🔹  Functions
 
 ### 📖 Definition
 
@@ -387,14 +387,6 @@ print(add(3, 4))
 * ✔️ Master Python basics
 * ✔️ Build mini projects
 * ✔️ Stay consistent
-
----
-
-## 🚀 Future Improvements
-
-* Add mini projects (Calculator, Chat App)
-* Add screenshots
-* Add notes from real-world practice
 
 ---
 
