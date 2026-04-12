@@ -1,12 +1,10 @@
 # AM TEACHING MYSELF TO CODE WITH PYTHON AND THIS IS A FOLLOW UP OF MY JOURNEY
 
-# 📌 DAY 1
-
-Today, I woke up at 2:00p.m. I raised to my laptop and I started my daily lessons. I used an application called "CODDY"
+While I teach myself to code, I use an app called **CODDY**. This gives me detailed lessons and also motivation to keep my learning journey ahead.
 
 [Link to CODDY](https://link.coddy.tech/bvMS/ref?af_sub2=XQg7AkHDNGew)
 
-This guides me throuhg the basics I should learn and these were my lessons for today;
+This guides me through the basics I should learn and these were my lessons for today;
 
 ### LESSON 1 - LEARNING STRINGS⛓️
 
@@ -140,6 +138,277 @@ The **+= adds** the value **3 to a**
 ### COMPARISON OPERATORS
 
 These are used to compare between two operands.
+
+### LOGICAL OPERATORS - PART ONE
+
+Logical operators are used to combine conditional statements
+
+Python has three logical operators:
+
+1. and
+2. Or
+3. not
+
+####**and** -  operator
+
+The and operator returns True if both statements are True.
+
+                  #Create two boolean values
+
+                  X = True
+
+                  Y = True
+
+                  #check if both x and y are True
+
+                  Result = x and y
+
+After executing the above code, result contains;
+
+                  True
+
+If one of the values is **False** , the result will be False.
+
+### 📊 Truth Table
+
+| Condition A | Condition B | A and B |
+|------------|------------|--------|
+| True       | True       | True   |
+| True       | False      | False  |
+| False      | True       | False  |
+| False      | False      | False  |
+
+### 💻 Example
+
+```python
+age = 20
+has_id = True
+
+if age >= 18 and has_id:
+    print("You are allowed to enter.")
+````
+
+---
+
+## 🔹 2. Decision Making
+
+### 📖 Definition
+
+Decision making allows programs to execute code based on conditions.
+
+### 📊 Statements
+
+| Statement | Purpose                     |
+| --------- | --------------------------- |
+| if        | Runs if condition is true   |
+| elif      | Checks another condition    |
+| else      | Runs if all conditions fail |
+
+### 💻 Example
+
+```python
+marks = 70
+
+if marks >= 80:
+    print("Grade A")
+elif marks >= 60:
+    print("Grade B")
+else:
+    print("Grade C")
+```
+
+---
+
+## 🔹 3. Basic Input / Output
+
+### 📖 Definition
+
+* **Input** → Data from user
+* **Output** → Data shown to user
+
+### 💻 Example
+
+```python
+name = input("Enter your name: ")
+print("Hello", name)
+```
+
+### ⚠️ Note
+
+`input()` always returns a **string**
+
+### 🔄 Type Conversion
+
+```python
+age = int(input("Enter your age: "))
+print(age + 5)
+```
+
+### 📊 Data Types
+
+| Function | Converts to |
+| -------- | ----------- |
+| int()    | Integer     |
+| float()  | Decimal     |
+| str()    | String      |
+
+---
+
+## 🔹 4. Loops
+
+### 📖 Definition
+
+Loops repeat code multiple times.
+
+### 📊 Types of Loops
+
+| Loop  | Description                  |
+| ----- | ---------------------------- |
+| for   | Iterates over a sequence     |
+| while | Runs while condition is true |
+
+---
+
+### 💻 `for` Loop
+
+```python
+for i in range(5):
+    print(i)
+```
+
+---
+
+### 💻 `while` Loop
+
+```python
+count = 0
+
+while count < 5:
+    print(count)
+    count += 1
+```
+
+---
+
+### 🔄 Loop Control
+
+| Keyword  | Function        |
+| -------- | --------------- |
+| break    | Stops loop      |
+| continue | Skips iteration |
+
+---
+
+## 🔹 5. Functions
+
+### 📖 Definition
+
+Functions are reusable blocks of code.
+
+---
+
+### 💻 Basic Function
+
+```python
+def greet():
+    print("Hello, World!")
+
+greet()
+```
+
+---
+
+### 💻 With Parameters
+
+```python
+def greet(name):
+    print("Hello", name)
+
+greet("Isaac")
+```
+
+---
+
+### 💻 With Return Value
+
+```python
+def add(a, b):
+    return a + b
+
+print(add(3, 4))
+```
+
+---
+
+### 📊 Function Structure
+
+| Part       | Meaning          |
+| ---------- | ---------------- |
+| def        | Defines function |
+| name       | Function name    |
+| parameters | Inputs           |
+| return     | Output           |
+
+---
+
+## 🧪 Exercises
+
+### 🔹 Logical Operators
+
+* Check if a student passed (marks > 50 AND attendance > 75%)
+* Create a login system
+
+### 🔹 Decision Making
+
+* Check if number is positive, negative, or zero
+* Check voting eligibility
+
+### 🔹 Input / Output
+
+* Ask user for name and age
+* Add two numbers from user input
+
+### 🔹 Loops
+
+* Print numbers 1–10
+* Print even numbers from 1–20
+* Password loop system
+
+### 🔹 Functions
+
+* Function to print your name
+* Function to add two numbers
+* Function to check even/odd
+
+---
+
+## 🎯 Goals
+
+* ✔️ Master Python basics
+* ✔️ Build mini projects
+* ✔️ Stay consistent
+
+---
+
+## 🚀 Future Improvements
+
+* Add mini projects (Calculator, Chat App)
+* Add screenshots
+* Add notes from real-world practice
+
+---
+
+## 📌 Author
+
+👤 **Isaac Kazibwe**
+💡 Learning in public & building consistency
+
+---
+
+<p align="center">
+  ⭐ Don't forget to star this repo if you like it!
+</p>
+```
 
 
          
