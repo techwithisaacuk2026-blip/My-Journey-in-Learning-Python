@@ -6,6 +6,8 @@ While I teach myself to code, I use an app called **CODDY**. This gives me detai
 
 This guides me through the basics I should learn and these were my lessons for today;
 
+![image alt](https://github.com/techwithisaacuk2026-blip/My-Journey-in-Learning-Python/blob/dbd6ef8a2216505bd04d7fa305bf80faad3f90f9/IMG-20260326-WA0015.jpg)
+
 ### LESSON 1 - LEARNING STRINGS⛓️
 
 A letter forexample; 
