@@ -180,15 +180,129 @@ If one of the values is **False** , the result will be False.
 
 ### 💻 Example
 
-```python
-age = 20
-has_id = True
+         python
+         age = 20
+         has_id = True
 
-if age >= 18 and has_id:
-    print("You are allowed to enter.")
-````
+         if age >= 18 and has_id:
+             print("You are allowed to enter.")
 
 ---
+## 🔹 Other Logical Operators
+
+In addition to `and`, Python provides other logical operators used to combine or modify conditions.
+
+---
+
+###🔸 1. Logical `or`
+
+### 📌 Explanation
+The `or` operator returns **True if at least one condition is True**.
+
+### 📊 Truth Table
+
+| Condition A | Condition B | A or B |
+|------------|------------|--------|
+| True       | True       | True   |
+| True       | False      | True   |
+| False      | True       | True   |
+| False      | False      | False  |
+
+### 💻 Example
+
+```python
+is_student = True
+has_discount = False
+
+if is_student or has_discount:
+    print("You qualify for a discount.")
+````
+
+### 🧠 Explanation
+
+* Only one condition needs to be true.
+* Useful when there are **multiple ways to meet a requirement**.
+
+---
+
+### 🔸 2. Logical `not`
+
+### 📌 Explanation
+
+The `not` operator **reverses the result** of a condition:
+
+* True → False
+* False → True
+
+### 📊 Truth Table
+
+| Condition | not Condition |
+| --------- | ------------- |
+| True      | False         |
+| False     | True          |
+
+### 💻 Example
+
+```python
+is_logged_in = False
+
+if not is_logged_in:
+    print("Please log in first.")
+```
+
+### 🧠 Explanation
+
+* `not` is used to check the opposite of a condition.
+* Very useful in authentication and validation logic.
+
+---
+
+## 🔄 Combining Logical Operators
+
+You can combine multiple logical operators in one condition.
+
+### 💻 Example
+
+```python
+age = 17
+has_permission = True
+
+if (age >= 18 or has_permission) and not False:
+    print("Access granted.")
+```
+
+### 🧠 Explanation
+
+* Conditions are evaluated step by step.
+* Use parentheses `()` to make logic clearer.
+
+---
+
+## 🧪 Exercises
+
+1. Write a program that checks if a user can enter:
+
+   * If they are **18 or older OR have permission**
+
+2. Create a system that denies access if a user is **not logged in**
+
+3. Combine operators:
+
+   * Allow access only if:
+
+     * user is admin OR moderator
+     * AND not banned
+
+---
+
+## ⚡ Quick Summary
+
+| Operator | Meaning                             |
+| -------- | ----------------------------------- |
+| and      | Both conditions must be True        |
+| or       | At least one condition must be True |
+| not      | Reverses the condition              |
+
 
 ## 🔹 Decision Making
 
@@ -219,7 +333,7 @@ else:
 
 ---
 
-## 🔹  Basic Input / Output
+### 🔹  Basic Input / Output
 
 ### 📖 Definition
 
@@ -254,7 +368,7 @@ print(age + 5)
 
 ---
 
-## 🔹Loops
+### 🔹Loops
 
 ### 📖 Definition
 
@@ -400,10 +514,5 @@ print(add(3, 4))
 <p align="center">
   ⭐ Don't forget to star this repo if you like it!
 </p>
-```
 
-
-         
-                
-         
-
+---
